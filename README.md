@@ -47,5 +47,5 @@ int main(void)
 	return (0);
 }
 
-# Authors:
-Beteab Admassu and Yitbarek yakob
+# Authors: 
+Yeabsira Tilahun and Kaleab Samuel
